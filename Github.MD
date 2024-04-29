@@ -25,3 +25,7 @@ git push -u origin main
 
 
 **naming convention: use small case with hyphons(-), No spaces**
+
+* To add all changes once
+```
+git add . ; git commit -m "first commit"; git push -u origin main
