@@ -6,7 +6,7 @@ Movies=("RRR" "DJtillu" "oppenhiemer")
 #index are 0,1,2
 #list always start with 0
 
-echo "First moive: $1"
-echo "Second movie: $2"
-echo "Third movie: $3"
-echo "All movies: $@"
+echo "First moive: ${Movies[0]}"
+echo "Second movie: ${Movies[1]"
+echo "Third movie: ${Movies[2]"
+echo "All movies: ${Movies[@]"
