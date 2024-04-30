@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #declaring  of variables
-PERSON1=Ramesh
+PERSON1=Puneeth
 PERSON2=Suresh
 
 #reflecting of variables
