@@ -10,4 +10,4 @@ echo "Username is:$USERNAME, Password is:$PASSWORD"
 
 # USE -s in the read --> invisible password and username
 
-
+# Use -p in the read --> propmt
