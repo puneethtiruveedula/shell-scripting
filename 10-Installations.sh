@@ -36,4 +36,4 @@ else
 fi
 
 
-ech0 "Is script proceeding"
+echo "Is script proceeding ?"
