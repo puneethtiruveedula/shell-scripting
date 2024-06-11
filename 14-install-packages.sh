@@ -44,5 +44,3 @@ do
     fi
 done
 
-# puneeth
-# jndklklfnmskfdkfnmkffkffkfk
