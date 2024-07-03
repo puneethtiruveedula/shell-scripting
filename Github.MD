@@ -29,3 +29,23 @@ git push -u origin main
 * To add all changes once
 ```
 git add . ; git commit -m "first commit"; git push -u origin main
+```
+
+
+### How to push existing repo from VSCODE to GITHUB 
+
+```
+git init
+```
+
+```
+git remote add origin <http github link>
+```
+
+```
+git branch -M main
+```
+
+```
+git add . ; git commit -m "first commit"; git push -u origin main
+```
