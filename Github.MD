@@ -32,7 +32,7 @@ git add . ; git commit -m "first commit"; git push -u origin main
 ```
 
 
-### How to push existing repo from VSCODE to GITHUB 
+### How to push existing repo from Vscode to Github 
 
 ```
 git init
@@ -48,4 +48,14 @@ git branch -M main
 
 ```
 git add . ; git commit -m "first commit"; git push -u origin main
+```
+
+### How to pull repo from github
+
+```
+git clone <http link>
+```
+
+```
+git pull
 ```
