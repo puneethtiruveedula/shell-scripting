@@ -50,7 +50,7 @@ S
 git remote add origin <https-URL>
 ```
 ```
-git push -u origin main
+git add . ; git commit -m "first commit"; git push -u origin main
 ```
 
 ### How to pull repo from github
