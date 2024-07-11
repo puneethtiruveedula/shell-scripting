@@ -37,17 +37,20 @@ git add . ; git commit -m "first commit"; git push -u origin main
 ```
 git init
 ```
-
-```
-git remote add origin <http github link>
-```
+* To initialise a folder as git repo
 
 ```
 git branch -M main
 ```
+To create new name
 
+* create repo in github
+S
 ```
-git add . ; git commit -m "first commit"; git push -u origin main
+git remote add origin <https-URL>
+```
+```
+git push -u origin main
 ```
 
 ### How to pull repo from github
