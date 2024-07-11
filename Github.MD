@@ -45,7 +45,7 @@ git branch -M main
 To create new name
 
 * create repo in github
-S
+
 ```
 git remote add origin <https-URL>
 ```
